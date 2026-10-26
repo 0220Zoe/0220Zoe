@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Zoe 👋
 
-<!--
-**0220Zoe/0220Zoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data engineer with 6+ years in data. Most recently at POLITICO, I built
+production ELT pipelines, semantic data layers, and data foundations for
+governed AI data access.
 
-Here are some ideas to get you started:
+**Stack:** Python · SQL · Snowflake · Databricks · dbt · Prefect · Airflow · PySpark · AWS · Git/CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Certifications:** Databricks Certified Data Engineer Associate · SnowPro Core
+
+### Featured work
+- **[Data-Engineer](https://github.com/0220Zoe/Data-Engineer)**: five tested projects covering
+  API ingestion, dbt modeling, PySpark medallion pipelines, and governed AI data access
+- **[VA-Driver-license-Scan](https://github.com/0220Zoe/VA-Driver-license-Scan)**: OCR and
+  computer vision pipeline for document data extraction (95%+ accuracy)
+
+📫 [LinkedIn](https://linkedin.com/in/yq-pan)
