@@ -11,7 +11,5 @@ governed AI data access.
 ### Featured work
 - **[Data-Engineer](https://github.com/0220Zoe/Data-Engineer)**: five tested projects covering
   API ingestion, dbt modeling, PySpark medallion pipelines, and governed AI data access
-- **[VA-Driver-license-Scan](https://github.com/0220Zoe/VA-Driver-license-Scan)**: OCR and
-  computer vision pipeline for document data extraction (95%+ accuracy)
 
 📫 [LinkedIn](https://linkedin.com/in/yq-pan)
